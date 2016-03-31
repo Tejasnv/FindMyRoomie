@@ -1,0 +1,14 @@
+#map-canvas {
+  height: 100%;
+  position: absolute; 
+  top: 0; 
+  bottom: -200px; 
+  left: 0; 
+  right: 0; 
+  z-index: 0;
+}
+
+#container {
+  z-index: 100;
+  position: relative;
+}
