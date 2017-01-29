@@ -11,7 +11,7 @@ Website to provide a platform for ITU students to find accommodation by interact
 ITU student and Renter (leasing companies/landlords) can signup using their username, emailid and password. ITU students profile are verified by sending user activation link to the irrespective ITU email account. User can register by clicking “Sign up” link.
 *Login Page
 Sign into website as Student or Renter <br> 
-•	Student Login : Student account will be identified by using his email id. Student can reset his password using “Forgot Password” link. Student has access to find accommodation and able to view all advertisements (ads) posted by other ITU students and renters.
+•	Student Login : Student account will be identified by using his email id. Student can reset his password using “Forgot Password” link. Student has access to find accommodation and able to view all advertisements (ads) posted by other ITU students and renters.<br>
 •	Student Home Page: Student home page consists of search functionality using price range, accommodation type, beds, available date from, shared rooms, property to rent and extra filters such as pet friendly, laundry, swimming pool, smoking friendly, parking and  gym/fitness center. <br>
 •	Roommate Ads tab: List all the ads posted by ITU students. The details include rent, address, brief description and pictures. Full details can be viewed by clicking on the ad. <br>
 •	Renter Ads tab: List all the ads posted by renters such as leasing companies and landlords. The details include rent, address, brief description and pictures. Full details can be viewed by clicking on the ad. <br>
