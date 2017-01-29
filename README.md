@@ -1,19 +1,18 @@
 # FindMyRoomie
 
-1.1
-INTRODUCTION
+1.1) INTRODUCTION
 The objective
 of the project is to build a website for ITU students to find accommodation 
 post advertisements and a platform for communication. The website user interface will be 
 designed effectively to understand 
 and utilize the functionalities with ease.
-2.1 
-REQUIREMENTS
+
+2.1) REQUIREMENTS
 2.1.1 Functional Requirements
 Website to provide a platform for ITU students to find accommodation by interacting with ITU 
 students and leasing companies based on
 various price ranges and amenities.
-
+
 Registration Page
 ITU student and Renter (le
 asing companies/landlords)
@@ -29,7 +28,7 @@ ir
 respective ITU email account.
 User can register by 
 clicking “Sign up” link.
-
+
 Login Page
 Sign into 
 website as Student or Renter
